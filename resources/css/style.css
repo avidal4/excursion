@@ -20,12 +20,20 @@ body {
 
 .header--sub-header {
     font-size: 21px;
-    color: gray;
+    color: grey;
 }
 
-/*links*/
+/*LINKS*/
 
 .link--cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+/*FOOTER*/
+
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
 }
